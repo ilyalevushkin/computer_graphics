@@ -1,0 +1,6 @@
+#ifndef TREE_GENERATE_METHODS_H
+#define TREE_GENERATE_METHODS_H
+
+enum Tree_ID {Honda_ID = 0};
+
+#endif // TREE_GENERATE_METHODS_H
